@@ -37,7 +37,7 @@ namespace Almostengr.HdHomerunCron
                     break;
 
                 default:
-                    Console.WriteLine("Invalid selection. PLease try again.");
+                    Console.WriteLine("Invalid selection. Please try again.");
                     break;
             }
 
